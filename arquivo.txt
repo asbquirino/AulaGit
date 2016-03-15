@@ -1,3 +1,3 @@
 Ola mundo!!
-Esta linha foi acrescentada.
-Esta linha tambem foi.
+Linha removida.
+Esta tambem foi.
