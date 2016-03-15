@@ -1,3 +1,2 @@
 Ola mundo!!
-Linha removida.
-Esta tambem foi.
+Esta e uma nova linha.
