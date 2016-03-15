@@ -2,6 +2,13 @@
 
 ### Módulo: Git ###
 
+**Projeto 2: Gerando 2 Releases**
+
+Comandos utilizados:
+
+- git tag
+- git push
+
 **Projeto 1: Fazendo meu primeiro PUSH**
 
 Comandos utilizados:
